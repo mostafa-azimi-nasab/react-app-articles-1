@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    height: 90px;
+    width: auto;
+    background-color: blanchedalmond;
+    
+}
+
+.navbar ul {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 90px;
+    
+}
+
+
+
+.navbar ul li{
+        list-style: none;
+        padding: 20px;
+        cursor: pointer;
+        border: solid 2px red;
+        border-radius: 20px;
+        background-color: aquamarine;
+    }
+
+    .navbar ol{
+        list-style: none;
+    }
